@@ -1,0 +1,314 @@
+[
+   {
+      "_id":"5eb197b6681da9d46edcdf11",
+      "name":"React Native Tutorial for Beginners - Build a React Native App [2020]",
+      "link":"https://www.youtube.com/watch?v=0-S5a0eXPoc",
+      "image":"",
+      "category":"REAC NATIVE",
+      "style":"1"
+   },
+   {
+      "_id":"5eb197b6681da9d46edcde19",
+      "name":"The emoji search engine. A fast emoji search experience with options to browse every emoji by name, category, or platform.",
+      "link":"https://emojipedia.org/",
+      "image":"",
+      "category":"OTHER",
+      "style":"1"
+   },
+   {
+      "_id":"5eb197b6681da9d46edcde18",
+      "name":"Building a React Table Component with react-table",
+      "link":"https://dev.to/itunpredictable/building-a-react-table-component-with-react-table-4d48",
+      "image":"",
+      "category":"REACTJS",
+      "style":"1"
+   },
+   {
+      "_id":"5eb197b6681da9d46edcde17",
+      "name":"Most Useful VS Code Extensions To Improve Your Productivity",
+      "link":"https://dev.to/myogeshchavan97/most-useful-vs-code-extensions-to-improve-your-productivity-okh",
+      "image":"",
+      "category":"VSCode",
+      "style":"1"
+   },
+   {
+      "_id":"5eb197b6681da9d46edcde17",
+      "name":"The Modern JavaScript Tutorial - Here we learn JavaScript.",
+      "link":"https://javascript.info/",
+      "image":"",
+      "category":"JAVASCRIPT",
+      "style":"1"
+   },
+   {
+      "_id":"5eb197b6681da9d46edcde16",
+      "name":"Blog with articles on all things web development: TypeScript CSS, JS, Node, HTML, A11Y",
+      "link":"https://fettblog.eu/",
+      "image":"",
+      "category":"TYPESCRIPT",
+      "style":"1"
+   },
+   {
+      "_id":"5eb197b6681da9d46edcde15",
+      "name":"A free SVG wave generator to make unique SVG waves for your next web design.",
+      "link":"https://getwaves.io/",
+      "image":"",
+      "category":"HTML/CSS",
+      "style":"1"
+   },
+   {
+      "_id":"5eb197b6681da9d46edcde14",
+      "name":"Create a shadow in 1 minute with a functional panel.",
+      "link":"https://brumm.af/shadows",
+      "image":"",
+      "category":"CSS",
+      "style":"1"
+   },
+   {
+      "_id":"5eb197b6681da9d46edcde13",
+      "name":"Create the perfect palette or get inspired by thousands of beautiful color schemes.",
+      "link":"https://coolors.co/",
+      "image":"",
+      "category":"WEB DESIGN",
+      "style":"1"
+   },
+   {
+      "_id":"5eb197b6681da9d46edcde12",
+      "name":"More than 200 Favorite JavaScript Utilities in single line of code! No more!",
+      "link":"https://1loc.dev/",
+      "image":"",
+      "category":"JAVASCRIPT",
+      "style":"1"
+   },
+   {
+      "_id":"5eb197b6681da9d46edcde11",
+      "name":"Improve your front-end coding skills by building real projects",
+      "link":"https://www.frontendmentor.io/",
+      "image":"",
+      "category":"CHALLENGES",
+      "style":"1"
+   },
+   {
+      "_id":"5eb197b6681da9d46edcde12",
+      "name":"Over 1 million free high-resolution images brought to you by the world’s most generous community of photographers",
+      "link":"https://unsplash.com/t/fashion",
+      "image":"",
+      "category":"IMAGE",
+      "style":"1"
+   },
+   {
+      "_id":"5eb197b6681da9d46edcde57",
+      "name":"A very nice App to Develop responsive web apps 5x faster!",
+      "link":"https://responsively.app/",
+      "image":"",
+      "category":"RESPONSIVE",
+      "style":"1"
+   },
+   {
+      "_id":"5eb197b6681da9d46edcde58",
+      "name":"Interactive list of the best fonts for developers with options to preview fonts and themes",
+      "link": "https://devfonts.gafi.dev/",
+      "image":"",
+      "category":"VSCODE/FONTS",
+      "style":"1"
+   },
+   {
+      "_id":"5eb197b6681da9d46edcde56",
+      "name":"Simplify controlled components with React hooks",
+      "link":"https://dev.to/stanleyjovel/simplify-controlled-components-with-react-hooks-23nn",
+      "image":"",
+      "category":"REACTJS",
+      "style":"1"
+   },
+   {
+      "_id":"5eb197b6681da9d46edcde55",
+      "name":"The repository for high quality TypeScript type definitions",
+      "link":"https://definitelytyped.org/",
+      "image":"",
+      "category":"TYPESCRIPT",
+      "style":"1"
+   },
+   {
+      "_id":"5eb197b6681da9d46edcde54",
+      "name":"A useful tool to generate TypeScript interfaces from JSON",
+      "link":"http://json2ts.com/",
+      "image":"",
+      "category":"TYPESCRIPT",
+      "style":"1"
+   },
+   {
+      "_id":"5eb197b6681da9d46edcde53",
+      "name":"The guide to use React Hooks in TypeScript",
+      "link":"https://medium.com/@jrwebdev/react-hooks-in-typescript-88fce7001d0d",
+      "image":"",
+      "category":"TYPESCRIPT",
+      "style":"1"
+   },
+   {
+      "_id":"5eb197b6681da9d46edcde52",
+      "name":"Conventional Commits - A specification for adding human and machine readable meaning to commit messages",
+      "link":"https://www.conventionalcommits.org/en/v1.0.0/",
+      "image":"",
+      "category":"GIT",
+      "style":"1"
+   },
+   {
+      "_id":"5eb197b6681da9d46edcde51",
+      "name":"Recoil, a state management library for React by Facebook's Team",
+      "link":"https://recoiljs.org/",
+      "image":"",
+      "category":"REACTJS",
+      "style":"1"
+   },
+   {
+      "_id":"5eb197b6681da9d46edcde5d",
+      "name":"Create and share beautiful images of your source code",
+      "link":"https://carbon.now.sh/",
+      "image":"",
+      "category":"JAVASCRIPT",
+      "style":"1"
+   },
+   {
+      "_id":"5e89981f1c9d440000f2c5ff",
+      "name":"The most insightful stories about ReactJS by Medium",
+      "link":"https://medium.com/tag/reactjs",
+      "image":"",
+      "category":"REACTJS",
+      "style":"1"
+   },
+   {
+      "_id":"5e77a1fa1c9d440000dd7f08",
+      "name":"React Hook Forms. Performant, flexible and extensible forms with easy-to-use validation.",
+      "link":"https://react-hook-form.com/",
+      "image":"",
+      "category":"REACTJS",
+      "style":"1"
+   },
+   {
+      "_id":"5e75f0171c9d440000bea901",
+      "name":"HTML6... Is cooming out! What's news are there?",
+      "link":"https://morioh.com/p/6d422fc49bd2",
+      "image":"",
+      "category":"HTML6",
+      "style":"1"
+   },
+   {
+      "_id":"5e6e78f31c9d440000b85fec",
+      "name":"The super fast color schemes generator! Create, save and share perfect palettes in seconds!",
+      "link":"https://coolors.co/",
+      "image":"",
+      "category":"UX",
+      "style":"1"
+   },
+   {
+      "_id":"5e6df4511c9d440000fa180f",
+      "name":"Libreria molto interessante per creare animazioni con i numeri",
+      "link":"https://www.npmjs.com/package/react-countup",
+      "image":"",
+      "category":"REACTJS",
+      "style":"1"
+   },
+   {
+      "_id":"5e6defde1c9d440000fa180e",
+      "name":"A delightful, easy to use and highly configurable component to help you notify your users out of the box",
+      "link":"https://www.npmjs.com/package/react-notifications-component",
+      "image":"",
+      "category":"REACTJS",
+      "style":"1"
+   },
+   {
+      "_id":"5e6a9ca11c9d440000ba7695",
+      "name":"Programmazione Funzionale in Javascrit: Composizione",
+      "link":"https://italiancoders.it/programmazione-funzionale-javascript-composizione/",
+      "image":"",
+      "category":"JAVASCRIPT",
+      "style":"1"
+   },
+   {
+      "_id":"5e69de4f1c9d440000e66bb4",
+      "name":"Minimalistic icon library Designed by code. Customizable & Retina-Ready icons",
+      "link":"https://css.gg/app",
+      "image":"",
+      "category":"CSS/ICONS",
+      "style":"1"
+   },
+   {
+      "_id":"5e54feb41c9d440000f62839",
+      "name":"Currency converter is a nice PWA in ReactJS",
+      "link":"https://currencypwa.herokuapp.com/",
+      "image":"",
+      "category":"PWA/REACTJS",
+      "style":"1"
+   },
+   {
+      "_id":"5e5002f91c9d44000014d860",
+      "name":"React-i18next is a powerful internationalization framework for React / React Native which is based on i18next.",
+      "link":"https://react.i18next.com/",
+      "image":"",
+      "category":"REACTJS",
+      "style":"1"
+   },
+   {
+      "_id":"5e4d3cbb1c9d440000616ec1",
+      "name":"Corso Redux Italiano - Lezione #3: action creators e named constants",
+      "link":"https://www.youtube.com/watch?v=h5KiGTZoAM0&t=1s",
+      "image":"",
+      "category":"REDUX",
+      "style":"1"
+   },
+   {
+      "_id":"5e4d3c8a1c9d440000616ec0",
+      "name":"Corso Redux Italiano - Lezione #2: lo store ed i metodi fondamentali",
+      "link":"https://www.youtube.com/watch?v=hVQ3RnsOPNU",
+      "image":"",
+      "category":"REDUX",
+      "style":"1"
+   },
+   {
+      "_id":"5e3bd06c1c9d440000437549",
+      "name":"Corso Redux Italiano - Lezione #1: introduzione, storia e architettura di Redux",
+      "link":"https://www.youtube.com/watch?v=tr06Y7iF398&feature=youtu.be",
+      "image":"",
+      "category":"REDUX",
+      "style":"1"
+   },
+   {
+      "_id":"5e3976da1c9d440000babf7e",
+      "name":"CSS Reference - A free visual guide to CSS",
+      "link":"https://cssreference.io/",
+      "image":"",
+      "category":"CSS",
+      "style":"1"
+   },
+   {
+      "_id":"5e3696021c9d4400008adc4d",
+      "name":"A service to create a fake online REST API",
+      "link":"https://jsonplaceholder.typicode.com/",
+      "image":"",
+      "category":"REST API",
+      "style":"1"
+   },
+   {
+      "_id":"5e34008c1c9d4400007b4570",
+      "name":"BEM — Block Element Modifier is a methodology that helps you to create reusable components",
+      "link":"http://getbem.com/",
+      "image":"",
+      "category":"SCSS",
+      "style":"1"
+   },
+   {
+      "_id":"5e3197911c9d440000b2d7f4",
+      "name":"The best tutorial to implement JSON Web Tokens in Node.JS",
+      "link":"https://www.freecodecamp.org/news/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52/",
+      "image":"",
+      "category":"NODE.JS",
+      "style":"1"
+   },
+   {
+      "_id":"5e31555a1c9d440000c49899",
+      "name":"A fantastic library for parallax scroll in jQuery and CSS3",
+      "link":"https://github.com/alumbo/jquery.parallax-scroll",
+      "image":"",
+      "category":"JAVASCRIPT/ANIMATION",
+      "style":"1"
+   }
+]

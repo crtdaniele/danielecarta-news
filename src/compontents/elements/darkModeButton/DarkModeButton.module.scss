@@ -1,0 +1,11 @@
+.styleMode{
+    font-size: 20px;
+    cursor: pointer;
+    position: fixed;
+    top: 20px;
+    right: 20px;
+
+    &.styleMode--dark{
+        color: #FFFFFF;
+    }
+}

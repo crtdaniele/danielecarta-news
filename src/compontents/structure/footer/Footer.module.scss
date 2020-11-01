@@ -1,0 +1,21 @@
+.Footer{
+    text-align: center;
+    font-size: 13px;
+    margin-top: 60px;
+    padding-bottom: 40px;
+    letter-spacing: 1px;
+
+    &.Footer--dark{
+        color: #FFFFFF;
+
+        svg{
+            color: #FFFFFF;
+        }
+    }
+    
+    svg{
+        color: #e23c52;
+        vertical-align: text-top;
+        font-size: 16px;
+    }
+}
